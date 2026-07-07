@@ -1,0 +1,25 @@
+{
+    "chart_title": "Favorite TV Shows",
+    "data_points": [
+        {
+            "Show": "Criminal Minds",
+            "Hours": 15
+        },
+        {
+            "Show": "Breaking Bad",
+            "Hours": 15
+        },
+        {
+            "Show": "The Rookie",
+            "Hours": 25
+        },
+        {
+            "Show": "The Bear",
+            "Hours": 4
+        },
+        {
+            "Show": "Naruto Shippuden",
+            "Hours": 20
+        }
+    ]
+}
